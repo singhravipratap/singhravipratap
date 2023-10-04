@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Open-source projects
+- 🌱 I’m currently learning Integration of AI and Blockchain
+- 👯 I’m looking to collaborate on Hyperledger projects
+- 💬 Ask me about ...
+- 📫 How to reach me: email me at ravipratap1428@gmail.com, Connect over LinkedIn https://www.linkedin.com/in/1singhravi/
+
+
 <!--
 **singhravipratap/singhravipratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
