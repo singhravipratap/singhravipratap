@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Open-source projects
 - 🌱 I’m currently learning Integration of AI and Blockchain
 - 👯 I’m looking to collaborate on Hyperledger projects
-- 💬 Ask me about ...
+- 💬 Ask me about Blockchain, Open-source, Hyperledger projects, Project Management, and any other thing that matters.
 - 📫 How to reach me: email me at ravipratap1428@gmail.com, Connect over LinkedIn https://www.linkedin.com/in/1singhravi/
 
 
