@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Open-source projects
 - 🌱 I’m currently working on Integration of machine learning approach to Blockchain
-- 👯 I’m looking to collaborate on machine learning specially uncertainty quantification on machine learning aspect adn Hyperledger projects
+- 👯 I’m looking to collaborate on machine learning specially uncertainty quantification on machine learning aspect and Hyperledger projects
 - 💬 Ask me about ...
 - 📫 How to reach me: email me at ravipratap1428@gmail.com, Connect over LinkedIn https://www.linkedin.com/in/1singhravi/
 
