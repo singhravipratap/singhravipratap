@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects related with LLM finetuning, RAG and Machine leanring problems
+- 🔭 I’m currently working on projects related with LLM finetuning, GraphRAG, AutoGen and Machine learning problems
 - 👯 I’m looking to collaborate on machine learning specially uncertainty quantification on machine learning aspect and Hyperledger projects
 - 💬 Ask me about ...
 - 📫 How to reach me: email me at ravipratap1428@gmail.com, Connect over LinkedIn https://www.linkedin.com/in/1singhravi/
